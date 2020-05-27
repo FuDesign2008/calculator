@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1de61cc92c3627039ca1",
-    "url": "/calculator/css/app.3216407a.css"
+    "revision": "7ba51df126a9e08353cf",
+    "url": "/calculator/css/app.1dbc2ba7.css"
   },
   {
     "revision": "87b41d4150010ec38b81",
@@ -16,16 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calculator/fonts/element-icons.732389de.ttf"
   },
   {
-    "revision": "3c57b178d8d2a5bbf983e6cc6351539b",
-    "url": "/calculator/img/wechat.3c57b178.jpg"
+    "revision": "b7a746135fc3e70e96015dfa578c0775",
+    "url": "/calculator/img/wechat.b7a74613.jpg"
   },
   {
-    "revision": "7e86d91fa7f97b001d27e955dd75ef59",
+    "revision": "e06c6f114f3afc38a293abbfb5173752",
+    "url": "/calculator/img/wechat2.e06c6f11.jpg"
+  },
+  {
+    "revision": "3098c55656f7506ad51c75bbd496ec37",
     "url": "/calculator/index.html"
   },
   {
-    "revision": "1de61cc92c3627039ca1",
-    "url": "/calculator/js/app.af63b0df.js"
+    "revision": "7ba51df126a9e08353cf",
+    "url": "/calculator/js/app.f6347e27.js"
   },
   {
     "revision": "87b41d4150010ec38b81",
