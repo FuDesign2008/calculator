@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/calculator/precache-manifest.9ce2fff1461422e6f5d9ad2d27bc502f.js"
+  "/calculator/precache-manifest.3dd79589998d68dba82bb42f8a5a2be8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "share-calculator"});
