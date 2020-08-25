@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calculator/img/wechat.78daf999.jpg"
   },
   {
-    "revision": "38a5657f450ec3ef1dfa7e0e5058793b",
+    "revision": "03a0038f6cb3caf6d8276b336c529871",
     "url": "/calculator/index.html"
   },
   {
